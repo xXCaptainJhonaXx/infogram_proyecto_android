@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Infogram</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="usuario">Usuario</string>
 </resources>
