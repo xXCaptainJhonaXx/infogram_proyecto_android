@@ -1,6 +1,7 @@
 package com.infocal.infogram;
 
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,5 +17,9 @@ public class LoginActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_login);
 
+    }
+
+    public void goCreateAccount(View view) {
+        System.out.println("---------- go to Create Account ----------");
     }
 }
