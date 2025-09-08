@@ -5,4 +5,8 @@
     <string name="buttonText">LOGIN</string>
     <string name="isNoAccount">"¿No tienes una cuenta?, "</string>
     <string name="createAccount"> Registrate Aqui</string>
+    <string name="email">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="confirm_contrasena">Confirme contraseña</string>
+    <string name="buttonText_createAccount">UNETE</string>
 </resources>
