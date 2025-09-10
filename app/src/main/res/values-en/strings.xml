@@ -7,4 +7,5 @@
     <string name="isNoAccount">"¿No tienes una cuenta?, "</string>
     <string name="createAccount">Registrate Aqui</string>
     <string name="buttonText_createAccount">SING UP</string>
+    <string name="title_crearCuenta">Crear cuenta</string>
 </resources>

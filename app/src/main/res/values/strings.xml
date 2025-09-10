@@ -9,4 +9,5 @@
     <string name="nombre">Nombre</string>
     <string name="confirm_contrasena">Confirme contraseña</string>
     <string name="buttonText_createAccount">UNETE</string>
+    <string name="title_crearCuenta">Crear cuenta</string>
 </resources>
