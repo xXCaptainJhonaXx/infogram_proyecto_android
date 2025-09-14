@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">infogram</string>
+    <string name="contrasena">Password</string>
+    <string name="usuario">Username</string>
+    <string name="buttonText">LOGIN</string>
+    <string name="isNoAccount">"¿No tienes una cuenta?, "</string>
+    <string name="createAccount">Registrate Aqui</string>
+    <string name="buttonText_createAccount">SING UP</string>
+    <string name="title_crearCuenta">Crear cuenta</string>
+    <string name="dias_cardview">4</string>
+</resources>
