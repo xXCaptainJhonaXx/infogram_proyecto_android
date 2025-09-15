@@ -4,11 +4,10 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import androidx.activity.*;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
+
+import com.infocal.infogram.view.ContainerActivity;
+import com.infocal.infogram.view.CreateAccountActivity;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -23,4 +22,8 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void login(View view) {
+        Intent intent = new Intent(this, ContainerActivity.class);
+        startActivity(intent);
+    }
 }

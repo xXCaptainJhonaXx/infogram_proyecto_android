@@ -9,4 +9,7 @@
     <string name="buttonText_createAccount">SING UP</string>
     <string name="title_crearCuenta">Crear cuenta</string>
     <string name="dias_cardview">4</string>
+    <string name="buscar_item">Buscar</string>
+    <string name="home_item">Home</string>
+    <string name="profile">Yo</string>
 </resources>
