@@ -102,16 +102,16 @@ public class HomeFragment extends Fragment {
 
     public ArrayList<Image> buidImages() {
         ArrayList<Image> images =new ArrayList<>();
-        images.add(new Image("", "Carlos Valdivia", "2 dias", "1 me gusta"));
-        images.add(new Image("", "Luis Rojas", "7 dias", "6 me gusta"));
-        images.add(new Image("", "Johnny Mamani", "10 dias", "2 me gusta"));
-        images.add(new Image("", "Jose Herrera", "4 dias", "9 me gusta"));
-        images.add(new Image("", "Carlos Moscado", "3 dias", "19 me gusta"));
-        images.add(new Image("", "Maria Flores", "8 dias", "8 me gusta"));
-        images.add(new Image("", "Juan Balderrama", "7 dias", "3 me gusta"));
-        images.add(new Image("", "Lorena Patzi", "5 dias", "4 me gusta"));
-        images.add(new Image("", "Pedro Valdivia", "6 dias", "2 me gusta"));
-        images.add(new Image("", "Antonio Banderas", "1 dias", "3 me gusta"));
+        images.add(new Image("https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/2/2015/04/GTAV-Review.jpg", "Carlos Valdivia", " 2 dias", " 1 me gusta"));
+        images.add(new Image("https://forum-en-cdn.warthunder.com/original/3X/7/a/7a58fcdf6004e4143d53d218ff961c87679b5cad.jpeg", "Luis Rojas", " 7 dias", " 6 me gusta"));
+        images.add(new Image("https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/ae/19/87.jpg", "Johnny Mamani", " 10 dias", " 2 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/3/30/Shot_Kal-.jpg", "Jose Herrera", " 4 dias", " 9 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/F-104_right_side_view.jpg/1024px-F-104_right_side_view.jpg", "Carlos Moscado", " 3 dias", " 19 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ERC-90_Sagaie_008_FR.JPG/1280px-ERC-90_Sagaie_008_FR.JPG", "Maria Flores", " 8 dias", " 8 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/1280px-Intel_Headquarters_in_2023.jpg", "Juan Balderrama", " 7 dias", " 3 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MiG-21_LanceR_taking_off_Romania_Oct_2009.jpg/1280px-MiG-21_LanceR_taking_off_Romania_Oct_2009.jpg", "Lorena Patzi", " 5 dias", " 4 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/d/d7/T-55_skos_RB.jpg", "Pedro Valdivia", " 6 dias", " 2 me gusta"));
+        images.add(new Image("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Goyas_2025_-_Antonio_Banderas_%28cropped%29.jpg/800px-Goyas_2025_-_Antonio_Banderas_%28cropped%29.jpg", "Antonio Banderas", " 1 dias", " 3 me gusta"));
 
         return images;
 
