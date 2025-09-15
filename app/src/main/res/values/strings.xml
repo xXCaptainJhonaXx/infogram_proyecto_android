@@ -20,5 +20,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_home_fragment">Home</string>
+    <string name="text_megusta_image_detail">me gusta</string>
+    <string name="text_cantidad_megusta_image_detail">10</string>
+    <string name="text_title_image_detail">\"Todo copas en la playa"</string>
+    <string name="text_content_image_detail">Lorem ipsum dolor sit amet consectetur adipiscing elit, dignissim eu molestie sociosqu ullamcorper nec, at potenti ad tristique eget bibendum. Quis per varius tristique phasellus nostra hac vehicula nascetur aenean facilisi nunc, himenaeos malesuada netus inceptos quisque blandit montes bibendum lobortis etiam ultrices arcu, eu venenatis viverra euismod nisl duis class habitant eleifend turpis. Pulvinar viverra elementum eleifend at tempus sollicitudin massa senectus mi, dictum nullam condimentum sed commodo laoreet facilisi nunc iaculis habitasse, tellus aptent aliquam nisi malesuada diam porta praesent. Nullam phasellus mauris aliquet ligula eget duis turpis, curae diam in pharetra sociis nascetur libero, dictum varius taciti porttitor malesuada odio.</string>
 
 </resources>
